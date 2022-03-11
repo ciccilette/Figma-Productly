@@ -1,0 +1,106 @@
+/*Whole page*/
+.Productly{
+    padding: 10px;
+    margin: 50px;
+}
+
+/* Nav bar */ 
+.Nav { 
+width: 1400px;
+height: 78px;
+left: 0px;
+top: 20px;
+flex-direction: row;
+}
+
+#Logo {   
+width: 220px;
+height: 50px;
+left: 200px;
+top: 50px;
+}
+
+#Signin {  
+height: 24px;
+left: 24.75%;
+right: 21.78%;
+top: calc(50% - 24px/2);
+
+font-family: Arial;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #173A56;
+
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+border: 1px solid #BCD0E5;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+#Signup {  
+left: 81.79%;
+right: 10.36%;
+top: 19.23%;
+bottom: 21.79%;
+
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #FF9900;
+border-radius: 4px;
+
+height: 24px;
+left: 22.73%;
+right: 20.91%;
+top: calc(50% - 24px/2);
+font-family: Arial;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+/*Header*/
+.Header { 
+
+}
+
+#Header1 {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Designtools {
+    justify-content: center;
+    font-family: Arial;
+    font-size: 40px; 
+    font-weight: bold;
+}
